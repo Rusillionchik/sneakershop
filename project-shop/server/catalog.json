@@ -1,0 +1,63 @@
+  [
+    {
+      "id": "el1", 
+      "name": "Мужские кроссовки Nike Dunk High Re-Raw Halloween",
+      "img": "https://i.ibb.co/Ypz3Cxw/4f65c126d186acef5e48ec81cc1b996f.jpg",
+      "price": 19999
+    },
+    {
+        "id": "el2", 
+        "name": "Кроссовки Nike Air Force 1 07 Lv8 Next Nature",
+        "img": "https://i.ibb.co/y0dDZrt/c5b2d1d0df53702ab9f3afc16bba7d00.jpg",
+        "price": 17999
+      },
+      {
+        "id": "el3", 
+        "name": "Мужские кроссовки Nike Air Vapormax 2021",
+        "img": "https://i.ibb.co/8s7PQVk/63db60001a14be5e3d737d437bd42789.jpg",
+        "price": 27999
+      },
+      {
+        "id": "el4", 
+        "name": "Мужские кроссовки Nike Air Max 270",
+        "img": "https://i.ibb.co/pn1N9Jm/5082dbca8e437623a87a9a71890f10c1.jpg",
+        "price": 18999
+      },
+      {
+        "id": "el5", 
+        "name": "Мужские кроссовки Nike Air Max 97",
+        "img": "https://i.ibb.co/rQpgwZ5/b3470ed558edd0552e69d2daa8553d0e.jpg",
+        "price": 15899
+      },
+      {
+        "id": "el6", 
+        "name": "Кроссовки Nike Dunk High Dynamic Berry",
+        "img": "https://i.ibb.co/qk0LDCz/06c7f76e5e7eb395c7064041ba28c403.jpg",
+        "price": 19999
+      },
+      {
+        "id": "el7", 
+        "name": "Мужские кроссовки Nike Air Max 95",
+        "img": "https://i.ibb.co/kXLVXVZ/667acb95d4e4d9d93c704e3011b10735.jpg",
+        "price": 21699
+      },
+      {
+        "id": "el8", 
+        "name": "Мужские кроссовки Nike Air Force 1 Boot Cordura",
+        "img": "https://i.ibb.co/CwStXyR/ead5a1e7c33ff0f821560b12531c2523.jpg",
+        "price": 22499
+      },
+      {
+        "id": "el9", 
+       "name": "Мужские кроссовки Nike Air Huarache",
+        "img": "https://i.ibb.co/ykxRmrg/e0058b6677543c3a6cbedd660eb5f2d4.jpg",
+        "price": 14999
+      },
+      {
+        "id": "el10", 
+        "name": "Мужские кроссовки Nike Air Presto Mid Utility",
+        "img": "https://i.ibb.co/RgpLVLk/el3.jpg",
+        "price": 17899
+      }
+]
+
